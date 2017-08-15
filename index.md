@@ -1,1 +1,1 @@
-## linkto index.html
+[link] (index.html)
